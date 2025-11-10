@@ -1,8 +1,8 @@
 # 📚 Sistem Peminjaman Buku Perpustakaan Mini
 
-Ini adalah Proyek Ujian Akhir Semester (UAS) untuk mata kuliah **[Nama Mata Kuliah Anda]**. Proyek ini diimplementasikan sebagai sistem manajemen perpustakaan sederhana berbasis konsol yang ditulis dalam **[Sebutkan Bahasa, misal: C++]**.
+Ini adalah Proyek Ujian Akhir Semester (UAS) untuk mata kuliah **Praktikum Pemrograman B**. Proyek ini diimplementasikan sebagai sistem manajemen perpustakaan sederhana berbasis konsol dan GUI yang ditulis dalam **C**.
 
-Seluruh data dari sistem ini, termasuk data buku, anggota, dan riwayat peminjaman, disimpan secara persisten dalam file `.txt` eksternal.
+Seluruh data dari sistem ini, termasuk data buku, anggota, dan riwayat peminjaman, disimpan secara persisten dalam file `.data` eksternal.
 
 ---
 
@@ -36,56 +36,55 @@ Sistem ini memiliki fungsionalitas penuh untuk mengelola operasi perpustakaan, m
 
 ## 🛠️ Teknologi yang Digunakan
 
-* **Bahasa Pemrograman:** `[Misalnya: C++]`
-* **Penyimpanan Data:** File `.txt` (untuk persistensi data)
-* **Prinsip/Struktur:** `[Misalnya: Structs, File I/O, Algoritma Pencarian/Sortir]`
+* **Bahasa Pemrograman:** `C`
+* **Penyimpanan Data:** File `.data` (untuk persistensi data)
+* **Prinsip/Struktur:** `MVC,Modular`
 
 ---
 
 ## ⚙️ Cara Menjalankan Proyek
 
 #### Persyaratan
-* `[Misalnya: Compiler G++ / GCC]`
-* `[Misalnya: Sistem Operasi Windows/Linux/macOS]`
+* Compiler GCC atau MYS64
+* Linux dan Windows
 
 #### Langkah-langkah
 1.  Clone repositori ini ke mesin lokal Anda:
     ```bash
-    git clone [URL_REPOSITORI_ANDA]
+    git clone (https://github.com/Azmibasri/Project_UAS_PrakPemro_B_Ganjil_2526_3)
     ```
 2.  Masuk ke direktori proyek:
     ```bash
-    cd [NAMA_DIREKTORI_PROYEK]
+    cd CLI
     ```
 3.  Kompilasi semua file source code:
     ```bash
     # Contoh untuk C++
-    g++ -o app main.cpp [file_lain.cpp]
+    gcc main.c -o main
     ```
 4.  Jalankan program yang telah dikompilasi:
     ```bash
-    # Contoh untuk Windows
-    ./app.exe
+    ./main.exe
     
-    # Contoh untuk Linux/macOS
-    ./app
+    ./main
     ```
 
 ---
 
-## 👥 Anggota Kelompok [Nomor Kelompok]
-
+## 👥 Anggota Kelompok 3
 Proyek ini dikerjakan oleh:
 
 | Nama Anggota | NIM | Kontribusi |
 | :--- | :--- | :--- |
-| `[Nama Lengkap]` | `[NIM]` | `[Misal: Fitur Manajemen Buku & Login]` |
-| `[Nama Lengkap]` | `[NIM]` | `[Misal: Fitur Transaksi & Denda]` |
-| `[Nama Lengkap]` | `[NIM]` | `[Misal: Manajemen File .txt & Pencarian]` |
-| `[Nama Lengkap]` | `[NIM]` | `[Misal: UI/UX Konsol & Ranking]` |
+| AZMI BASRI | 250810701100044 | Fitur Manajemen Buku & Login |
+| ALTHAFFIA PUTRI | 250810701100036 | Fitur Transaksi & Denda |
+| MUHAMMAD RAUYAN | 250810701100048 | Manajemen File .txt & Pencarian|
+| Muhammad Faris Zufar | 250810701100058 | UI/UX Konsol & Ranking |
+| KYANDARU ANNISA PUTRI | 250810701100059| UI/UX Konsol & Ranking |
+
 
 ---
 
 ### 📄 Lisensi
 
-Proyek ini dilisensikan di bawah **[Misalnya: Lisensi MIT]**.
+Proyek ini dilisensikan di bawah **Lisensi MIT**.
