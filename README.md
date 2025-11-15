@@ -76,10 +76,10 @@ Proyek ini dikerjakan oleh:
 
 | Nama Anggota | NIM | Kontribusi |
 | :--- | :--- | :--- |
-| AZMI BASRI | 250810701100044 | Fitur Manajemen Buku & Login |
+| AZMI BASRI | 250810701100044 | Quality Control |
 | ALTHAFFIA PUTRI | 250810701100036 | Fitur Transaksi & Denda |
 | MUHAMMAD RAUYAN | 250810701100048 | Manajemen File .txt & Pencarian|
-| Muhammad Faris Zufar | 250810701100058 | UI/UX Konsol & Ranking |
+| Muhammad Faris Zufar | 250810701100058 | Fitur Manajemen Buku & Login |
 | KYANDARU ANNISA PUTRI | 250810701100059| UI/UX Konsol & Ranking |
 
 
