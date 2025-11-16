@@ -38,7 +38,7 @@ Sistem ini memiliki fungsionalitas penuh untuk mengelola operasi perpustakaan, m
 
 * **Bahasa Pemrograman:** `C`
 * **Penyimpanan Data:** File `.data` (untuk persistensi data)
-* **Prinsip/Struktur:** `MVC,Modular`
+* **Prinsip/Struktur:** `Modular`
 
 ---
 
