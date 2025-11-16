@@ -1,0 +1,15 @@
+#ifndef MANAJEMEN_BUKU_DAN_LOGIN_H
+#define MANAJEMEN_BUKU_DAN_LOGIN_H
+
+#include <stdbool.h>
+
+
+bool TAMPILKAN_LOGIN();
+void TAMBAH_BUKU_BARU();
+void EDIT_INFO_BUKU();
+void HAPUS_BUKU();
+void TAMBAH_ANGGOTA_BARU();
+void EDIT_INFO_ANGGOTA();
+void HAPUS_ANGGOTA();
+
+#endif 
