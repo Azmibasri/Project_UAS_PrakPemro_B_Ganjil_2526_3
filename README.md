@@ -63,9 +63,9 @@ Sistem ini memiliki fungsionalitas penuh untuk mengelola operasi perpustakaan, m
     ```
 4.  Jalankan program yang telah dikompilasi:
     ```bash
-    ./main.exe
+    ./program.exe
     
-    ./main
+    ./program
     ```
 
 ---
