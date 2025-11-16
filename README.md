@@ -59,8 +59,7 @@ Sistem ini memiliki fungsionalitas penuh untuk mengelola operasi perpustakaan, m
     ```
 3.  Kompilasi semua file source code:
     ```bash
-    # Contoh untuk C++
-    gcc main.c -o main
+    gcc .\main.c .\fitur\manajemen_file_data_Pencarian\manajemen_file_data_Pencarian.c .\fitur\manajemen_buku_dan_login\manajemen_buku_dan_login.c .\fitur\fitur_transaksi_Denda\fitur_transaksi_Denda.c .\fitur\UI_UX_Konsol_Ranking\UI_UX_Konsol_Ranking.c -I.\fitur\manajemen_file_data_Pencarian -I.\fitur\manajemen_buku_dan_login -I.\fitur\fitur_transaksi_Denda -I.\fitur\UI_UX_Konsol_Ranking -o program -Wall
     ```
 4.  Jalankan program yang telah dikompilasi:
     ```bash
